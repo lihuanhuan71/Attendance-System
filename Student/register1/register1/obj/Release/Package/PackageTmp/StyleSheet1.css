@@ -1,0 +1,19 @@
+﻿body 
+{
+ background-color:rgba(149, 211, 209, 0.84);
+}
+.one 
+{
+    text-align: center;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+    position: absolute;
+} 
+
+.big
+{
+    font-size:20px;
+}

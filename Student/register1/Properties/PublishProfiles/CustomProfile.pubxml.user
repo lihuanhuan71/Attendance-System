@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+此文件由 Web 项目的发布/打包过程使用。可以通过编辑此 MSBuild 文件
+自定义此过程的行为。为了解与此相关的更多内容，请访问 https://go.microsoft.com/fwlink/?LinkID=208121。 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\lenovo\Desktop\reg</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="alter_mac.aspx">
+      <publishTime>06/09/2019 23:46:01</publishTime>
+    </File>
+    <File Include="alter_password.aspx">
+      <publishTime>06/09/2019 23:46:01</publishTime>
+    </File>
+    <File Include="alter_success.aspx">
+      <publishTime>05/18/2019 15:05:58</publishTime>
+    </File>
+    <File Include="App_Data/Database1.mdf">
+      <publishTime>06/16/2019 14:28:49</publishTime>
+    </File>
+    <File Include="App_Data/Database1_log.ldf">
+      <publishTime>06/16/2019 14:28:50</publishTime>
+    </File>
+    <File Include="bin/register1.dll">
+      <publishTime>06/24/2019 21:48:46</publishTime>
+    </File>
+    <File Include="bin/register1.pdb">
+      <publishTime>06/24/2019 21:48:46</publishTime>
+    </File>
+    <File Include="logon.aspx">
+      <publishTime>06/09/2019 23:41:58</publishTime>
+    </File>
+    <File Include="manage.aspx">
+      <publishTime>05/20/2019 10:00:11</publishTime>
+    </File>
+    <File Include="StyleSheet1.css">
+      <publishTime>05/18/2019 15:18:04</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>06/16/2019 14:28:51</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

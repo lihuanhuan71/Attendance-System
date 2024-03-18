@@ -1,0 +1,7 @@
+C:\Users\lenovo\Desktop\register1\register1\bin\register1.dll.config
+C:\Users\lenovo\Desktop\register1\register1\bin\register1.dll
+C:\Users\lenovo\Desktop\register1\register1\bin\register1.pdb
+C:\Users\lenovo\Desktop\register1\register1\obj\Release\register1.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\register1\register1\obj\Release\register1.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\register1\register1\obj\Release\register1.dll
+C:\Users\lenovo\Desktop\register1\register1\obj\Release\register1.pdb
